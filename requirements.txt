@@ -1,0 +1,7 @@
+numpy
+tensorflow
+Keras
+seaborn
+yahoo-finance
+pandas
+matplotlib
